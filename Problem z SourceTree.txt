@@ -1,0 +1,3 @@
+Pocz¹tek pracy wykonywany i komitowany by³ przez SourceTree na komputerze uczelnianym, po zmianie stanowiska na domowe napotka³am problem podczas instalacji SourceTree, które instalowa³o siê bez problemów na innych komputerach. Commit "3 for 5" jest zepsuty i postanowi³am zrobiæ nowe repozytorium i tam wgraæ resztê commitów projektu.
+
+Pozdrawiam
